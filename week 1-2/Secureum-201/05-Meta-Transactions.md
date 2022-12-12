@@ -1,0 +1,7 @@
+## Meta Transactions
+
+Meta transactions also popularly known as gasless transactions provide a convenient way for users to avoid paying for gas on a blockchain network when making transactions, but instead a third party pays the gas for them. This is mostly a two stage process where the user (owner of account with identified address) sends a transaction offchain. this transaction is received by a relayer (Maintaining the account owners signature and transaction details) that pays the gas fee and sends it to the ethereum network for finality
+
+This whole process can be great and useful for onboarding new users into the blockchain space and making applications easier and free to use. When users don't have to worry about paying gas for every transaction they make, it removes the barrier to usage thereby enabling them to focus on the functionality of the dapp and its overall usage. This can come handy in voting and airdrop claims as the user don't have to worry about having gas but instead focus on the quality of their vote.
+
+Openzeppelin has been working and developing intuitive solution for meta transaction via their custom relayer called Gas Station network(GSN). A popular solution is also from Biconomy too.
