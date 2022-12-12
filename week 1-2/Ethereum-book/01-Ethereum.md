@@ -1,0 +1,13 @@
+## Ethereum
+
+Ethereum is an open source globally decentralized computing infrastructure that executes programs called smart contracts. it use a blockchain to synchronise and store system state changes along with a cryptocurrency called ether to meter and offset resource costs.
+
+As compoared to bitcoin, it uses a consensus mechanism called POS(Proof of Stake). formerly it made use of Proof of work but has since transitioned to this new consensus mechanism. This consensus mechanism is used to update states in the ethereum blockchain. it also uses cryptographic mechanisms to verify digital signatures.
+
+Ethereum differs from the bitcoin blockchain in the sense that it is programmable and turing complete, A huge amount of decentralized applications (dapps) has been built on it to leverage the power of the EVM. it often referred to as a "general purpose computer"
+
+Ethereum as a peer to peer network system has different client implementations and is home to thousands of developers constantly building on it. This revolutionary system is the brain child of Vitalik Buterin who in 2013 started sharing papers on the idea of ethereum been a turing complete machine. He worked for years together with Gavin wood and in 2015 the first Ethereum block was mined thereby ushering the inception of ethereum which came to be know as the "world computer"
+
+As a turing complete machine, ethereum can run and process problems given to it as long as adequate time and resources are made available. but this turing completeness can result in bad actors spamming the network with possible DOS (Denial of Service attacks) which can bring the network to a halt. As a solution to this, the concept of gas was brought in as a metering system. So gas is used to pay for computational cost on the ethereum network in the network coin called ether. hence the EVM will ultimately execute a transaction if the gas provided is sufficient to run the given transaction else such a transaction will revert.
+
+Ushering in web3 as the third iteraction of the web, ethereum plays a huge role in the development of dapps that run on the decentralized network and since its inception, other blockchains known as EVM compatible have taken the success of ethereum and built their own blockchain thereby expanding the decentralized web. yet ethereum remains the bedrock for understanding most programmable blockchains, therefore a knowledge of it is paramount for breaking in the world of blockchain development
